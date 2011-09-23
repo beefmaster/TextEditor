@@ -1,5 +1,6 @@
 import javax.swing.JFrame;
 
+//TextEditor
 
 public class TextEdit {
 	
